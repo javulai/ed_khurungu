@@ -17,7 +17,8 @@
     "electron-serve": "^1.1.0",
     "electron-store": "^8.1.0",
     "lodash": "^4.17.21",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "react-query": "^3.39.2"
   },
   "devDependencies": {
     "@types/node": "^16.11.7",
